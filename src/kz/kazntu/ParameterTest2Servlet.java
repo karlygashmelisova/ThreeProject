@@ -25,7 +25,7 @@ public class ParameterTest2Servlet extends HttpServlet {
                 "<body bgcolor = \"#f0f0f0\"> \n" +
                 "<h1 align = \"center\">" + title + "</h1>\n" +
                 "<table width = \"100%\" border = \"1\" align = \"center\">\n" +
-                "<tr bgcolor = \"#949494\">\n" +
+                "<tr bgcolor = \"#000000\">\n" +
                 "<th> Param Name</th>\n" +
                 "<th> Param Value(s</th>\n+" +
                 "</tr>\n"
