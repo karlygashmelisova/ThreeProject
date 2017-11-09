@@ -40,7 +40,7 @@ public class ParameterTest1Servlet extends HttpServlet {
         resp.setContentType("text/html");
 
         PrintWriter out = resp.getWriter();
-        String title = "Usinng POST Method to Read Form Data";
+        String title = "Usinng POSTT Method to Read Form Data";
         String docType =
                 "<!doctype html>\n";
 
