@@ -15,7 +15,7 @@ public class ParameterTest2Servlet extends HttpServlet {
         resp.setContentType("text/html");
 
         PrintWriter out = resp.getWriter();
-        String title = "Reading All Form Parameters";
+        String title = "Waiting All Form Parameters";
         String docType =
                 "<!docType html>\n";
 
