@@ -16,7 +16,7 @@ public class SessionTestServlet extends HttpServlet {
         Date createTime=new Date(session.getCreationTime());
         Date lastAccessTime=new Date(session.getLastAccessedTime());
 
-        String title="Welcomee Back kto my website";
+        String title="Welcomee Back to my website";
 
         Integer visitCount=new Integer(0);
 
